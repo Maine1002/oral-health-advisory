@@ -7,7 +7,7 @@ import { Link } from "wouter";
 import ArticleLayout from "@/components/ArticleLayout";
 import { Star, CheckCircle, XCircle, Award, ArrowRight, ExternalLink } from "lucide-react";
 
-const KIT_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663401746603/M54CeUzbQAJE5tbCfQm74p/teeth-whitening-kit-64B7efmnmxXLWvWLD5V9gy.webp";
+const KIT_IMG = "/images/smilepro-kit.webp";
 
 const products = [
   {

@@ -5,7 +5,7 @@
 import ArticleLayout from "@/components/ArticleLayout";
 import { ExternalLink, Star } from "lucide-react";
 
-const DENTIST_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663401746603/M54CeUzbQAJE5tbCfQm74p/dentist-consultation-ZWe35pedEX8d664rpEdiz9.webp";
+const DENTIST_IMG = "/images/dentist-consultation.webp";
 
 const SidebarCTA = () => (
   <div className="bg-[#1B4332] rounded-xl p-5 text-white">
